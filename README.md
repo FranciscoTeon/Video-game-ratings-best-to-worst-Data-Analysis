@@ -9,3 +9,8 @@ Is there a formula of variables that leads to high ratings?
 Are there certain interactions within variables that can affect a game's score?
 How do platform variables such as performance affect game ratings?
 
+Files used for these projects:
+1. IGN games from best to worst (https://www.kaggle.com/datasets/kapturovalexander/ign-games-from-best-to-worst)
+2. Popular video games 1980-2023 (https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023)
+3. Video game ratings from IMDB (https://www.kaggle.com/datasets/nyagami/video-game-ratings-from-imdb)
+
